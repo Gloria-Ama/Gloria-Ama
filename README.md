@@ -2,7 +2,7 @@
 - 👀 I’m interested in in web developmet, software testing, and innovative technology solution...
 - 🌱 I’m currently learning Javascript frameworks like React and improving my problem-solvin skills with algorithms.
 - 💞️ I’m looking to collaborate on open source projects, web appliactions, or student hackathons.
-- 📫 How to reach me draforamagloria@gmail.com and ama-gloria-drafor
+- 📫 How to reach me draforamagloria@gmail.com and www.linkedin.com/in/ama-gloria-drafor
 - 😄 Pronouns: she/she
 - ⚡ Fun fact: ...
 
